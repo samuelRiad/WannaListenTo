@@ -1,0 +1,92 @@
+.body {
+  background-color: black;
+}
+
+.st {
+  background-color: #008cba;
+  color: aliceblue;
+  font-size: 16px;
+  position: relative;
+  left: 11cm;
+  top: 5cm;
+}
+.s {
+  width: 1000px;
+  background-image: url(/Testing_If_else_statment_p2/images/sttt.png);
+  height: 12cm;
+  object-fit: cover;
+}
+.sp {
+  width: 5cm;
+  height: 5cm;
+  position: relative;
+  left: 5cm;
+}
+.hpd {
+  width: 1000px;
+  height: 435px;
+  object-fit: cover;
+  background-image: url(/Testing_If_else_statment_p2/images/wallpaperflare-cropped.jpg);
+  position: relative;
+  left: 5cm;
+  bottom: 5.8cm;
+  right: 15cm;
+}
+
+.hp {
+  background-color: #4caf50;
+  position: relative;
+  top: 5.8cm;
+  left: 11.6cm;
+}
+.lor {
+  width: 1000px;
+  height: 453px;
+  object-fit: cover;
+  background-image: url(/Testing_If_else_statment_p2/images/lor.jpg);
+}
+.lr {
+  background-color: white;
+  position: relative;
+  top: 5.5cm;
+  left: 10cm;
+}
+.beach {
+  width: 1000px;
+  height: 453px;
+  object-fit: cover;
+  background-image: url(/Testing_If_else_statment_p2/images/BB.png);
+  position: relative;
+  left: 12cm;
+}
+.bb {
+  background-color: #555555;
+  position: relative;
+  top: 5cm;
+  left: 11.5cm;
+}
+.m {
+  width: 1000px;
+  height: 453px;
+  background-image: url(/Testing_If_else_statment_p2/images/m.png);
+  position: relative;
+}
+.ml {
+  position: relative;
+  top: 8cm;
+  left: 11.7cm;
+  border-radius: 12%;
+}
+.sam {
+  width: 1000px;
+  height: 453px;
+  background-image: url(/Testing_If_else_statment_p2/images/sk8.png);
+  position: relative;
+  left: 15cm;
+}
+.samuel {
+  position: relative;
+  background-color: aquamarine;
+  left: 11cm;
+  top: 6cm;
+}
